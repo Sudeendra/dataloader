@@ -1,0 +1,4 @@
+loader:
+  data_source: mysql
+  import_type: csv
+  import_chunk_size: 1000

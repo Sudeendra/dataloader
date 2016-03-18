@@ -1,0 +1,5 @@
+mysql:
+  host: localhost
+  database: dataloader
+  username: mysql
+  password: Welcome1!
