@@ -27,7 +27,7 @@ class MySQLDataService implements IDataService
     public function getConnection()
     {
         if ($this->connection == null) {
-            $this->connection = new \mysqli("localhost", "mysql", "Welcome1!", "data_loader");
+            $this->connection = new \mysqli("localhost", "mysql", "XXXX", "data_loader");
         }
         $this->connection;
     }
