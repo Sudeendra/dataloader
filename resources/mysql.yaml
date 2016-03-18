@@ -2,4 +2,4 @@ mysql:
   host: localhost
   database: dataloader
   username: mysql
-  password: Welcome1!
+  password: XXXXXXX
